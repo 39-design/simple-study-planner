@@ -1,6 +1,3 @@
-# simple-study-planner
-A simple Python study planner for calculating grades, deadlines, task priority, and study plans. Public
-
 # Simple Study Planner
 
 This is my final project for Python. The project is a simple study planner that helps students calculate an average grade, check how many days are left before a deadline, calculate a task priority score, and create a short study plan sentence.
